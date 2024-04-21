@@ -15,7 +15,13 @@ The exercise is divided into several sections, each focusing on a different aspe
 4. **PCA & K-means Integration**: Finally, we integrate PCA with K-means clustering to identify clusters using the principal components. We again find the optimal number of clusters using the Elbow method and Silhouette score.
 
 5. **Manual K-means Clustering**: As a bonus exercise, we manually perform K-means clustering on a set of two-dimensional points.
+   
+## Files Included
 
+- **ML_EX1.ipynb**: Jupyter Notebook containing the Python code for the exercise.
+- **customer_segmentation.csv**: Dataset used for customer segmentation.
+
+  
 ## Instructions
 
 To run the code in the Jupyter Notebook, follow these steps:
